@@ -5,3 +5,5 @@ This is me doing things, I seem to be quite committed already.
 See ya!
 
 Adding some text to see what happens when committing without any messages. Wish me luck!
+
+More lines, simply because we have tried to change the default editor for commit messages to VScode and now want to check if it actually works well.
