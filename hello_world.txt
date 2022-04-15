@@ -3,3 +3,5 @@ Hi There Internet World!
 This is me doing things, I seem to be quite committed already.
 
 See ya!
+
+Adding some text to see what happens when committing without any messages. Wish me luck!
